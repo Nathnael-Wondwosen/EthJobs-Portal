@@ -77,54 +77,6 @@ Eth-Job (ኢት-ጆብ) is a comprehensive, modern job portal platform designed 
 - MySQL 5.7+
 - Git
 
-### Installation
-
-1. **Clone the Repository**
-   ```bash
-   git clone https://github.com/your-username/ethjobs-portal.git
-   cd ethjobs-portal
-   ```
-
-2. **Install PHP Dependencies**
-   ```bash
-   composer install
-   ```
-
-3. **Install Node Dependencies**
-   ```bash
-   npm install
-   ```
-
-4. **Environment Setup**
-   ```bash
-   cp .env.example .env
-   php artisan key:generate
-   ```
-
-5. **Database Configuration**
-   - Create a MySQL database
-   - Update `.env` with database credentials
-   - Run migrations and seeders:
-   ```bash
-   php artisan migrate
-   php artisan db:seed
-   ```
-
-6. **Build Assets**
-   ```bash
-   npm run build
-   # or for development
-   npm run dev
-   ```
-
-7. **Start the Application**
-   ```bash
-   php artisan serve
-   ```
-
-8. **Access the Portal**
-   - Frontend: `http://localhost:8000`
-   - Admin Panel: `http://localhost:8000/admin`
 
 ## 📖 Usage Guide
 
@@ -168,13 +120,6 @@ The application uses a comprehensive database schema including:
 - **Plans**: Subscription and payment management
 - **Blogs**: Content management system
 
-## 🧪 Testing
-
-Run the test suite:
-```bash
-php artisan test
-```
-
 ## 📦 Deployment
 
 ### Production Setup
@@ -184,19 +129,6 @@ php artisan test
 4. Run database migrations
 5. Set up cron jobs for scheduled tasks
 6. Configure file storage (local/S3)
-
-### Docker Support
-Docker configuration coming soon! 🐳
-
-## 🤝 Contributing
-
-We welcome contributions from the community! Here's how you can help:
-
-1. **Fork** the repository
-2. **Create** a feature branch (`git checkout -b feature/amazing-feature`)
-3. **Commit** your changes (`git commit -m 'Add amazing feature'`)
-4. **Push** to the branch (`git push origin feature/amazing-feature`)
-5. **Open** a Pull Request
 
 ### Development Guidelines
 - Follow PSR-12 coding standards
@@ -220,6 +152,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📞 Support
 
 - **Email**: natiwond95@gmail.com
+- **Phone**: +251903324489
 
 ## 🔄 Version History
 
