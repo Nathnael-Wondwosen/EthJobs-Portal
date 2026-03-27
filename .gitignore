@@ -1,0 +1,103 @@
+# Laravel specific files
+/.phpunit.cache
+/public/build
+/public/hot
+/public/storage
+/storage/*.key
+/vendor
+.env
+.env.backup
+.env.*.php
+.env.production.php
+.env.*.local
+
+# Test and Cache files
+.phpunit.result.cache
+coverage/
+phpunit.xml
+
+# Node.js and npm
+/node_modules
+npm-debug.log
+npm-debug.log.*
+yarn-error.log
+yarn-debug.log*
+package-lock.json
+yarn.lock
+
+# Composer
+auth.json
+composer.lock
+
+# Homestead
+Homestead.json
+Homestead.yaml
+
+# IDE and Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.project
+.settings/
+.classpath
+.c9/
+*.sublime-project
+*.sublime-workspace
+.DS_Store
+Thumbs.db
+.fleet
+.jetbrains.plugins.marketplace.certificate
+
+# PHP
+.php-cs-fixer.cache
+.phplint.cache
+
+# Local environment
+local.php
+config/local.php
+
+# OS files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+
+# IDE specific
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Development and temporary files
+.env.dusk.local
+.env.testing
+storage/debugbar/
+storage/logs/
+storage/framework/cache/
+storage/framework/sessions/
+storage/framework/testing/
+
+# Backup and temporary files
+*.bak
+*.backup
+*.tmp
+*.log
+*.swp
+*.swo
+
+# Production builds
+/build
+/dist
+
+# Generated files
+_ide_helper_models.php
+.phpstorm.meta.php
+
+# Database backups and dumps
+*.sql
+job_portal.sql
