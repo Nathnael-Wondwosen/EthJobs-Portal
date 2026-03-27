@@ -1,4 +1,4 @@
-# 🌟 EthJobs Portal 🌟
+# 🌟 Job-Portal 🌟
 
 [![Laravel Version](https://img.shields.io/badge/Laravel-10.x-red.svg)](https://laravel.com)
 [![PHP Version](https://img.shields.io/badge/PHP-8.1+-blue.svg)](https://php.net)
@@ -126,11 +126,6 @@ EthJobs is a comprehensive, modern job portal platform designed specifically for
    - Frontend: `http://localhost:8000`
    - Admin Panel: `http://localhost:8000/admin`
 
-### Default Credentials
-- **Admin**: admin@ethjobs.com / password
-- **Company**: company@ethjobs.com / password
-- **Candidate**: candidate@ethjobs.com / password
-
 ## 📖 Usage Guide
 
 ### For Job Seekers
@@ -226,12 +221,6 @@ We welcome contributions from the community! Here's how you can help:
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 👥 Team
-
-**EthJobs Development Team** - Group 2, BSc Computer Science, Salale University
-
-- **Desalu Tafese** - Project Lead & Backend Developer
-- **Hanan Mudesir** - Frontend Developer & UI/UX Designer
 - **Nathnael Wondwosen** - Full-Stack Developer & Database Architect
 
 ## 🙏 Acknowledgments
@@ -243,9 +232,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Support
 
-- **Email**: support@ethjobs.com
-- **Website**: [ethjobs.com](https://ethjobs.com)
-- **Documentation**: [docs.ethjobs.com](https://docs.ethjobs.com)
+- **Email**: natiwond95@gmail.com
 
 ## 🔄 Version History
 
@@ -260,7 +247,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 <p align="center">
   Made with ❤️ in Ethiopia 🇪🇹<br>
-  <em>Bridging Dreams, Building Futures</em>
+  <em>Nathnael, Building Futures</em>
 </p>
 
 <div align="center">
