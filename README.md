@@ -149,7 +149,7 @@ EthJobs is a comprehensive, modern job portal platform designed specifically for
 ## 📸 Screenshots
 
 ### Homepage
-![Homepage](https://via.placeholder.com/800x400/2196F3/FFFFFF?text=EthJobs+Homepage)
+![Homepage](https://via.placeholder.com/800x400/2196F3/FFFFFF?text=EthJobs+Homepage](https://github.com/Nathnael-Wondwosen/EthJobs-Portal/blob/main/public/frontend/assets/imgs/AI.png).
 
 ### Job Search
 ![Job Search](https://via.placeholder.com/800x400/FF9800/FFFFFF?text=Job+Search+Interface)
