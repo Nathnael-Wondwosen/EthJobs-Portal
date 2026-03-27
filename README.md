@@ -9,7 +9,7 @@
 
 EthJobs is a comprehensive, modern job portal platform designed specifically for the Ethiopian job market. Built with cutting-edge technology, EthJobs bridges the gap between talented job seekers and forward-thinking employers, fostering career growth and business success across Ethiopia.
 
-![EthJobs Banner](https://via.placeholder.com/1200x400/4CAF50/FFFFFF?text=EthJobs+Portal+Banner)
+![EthJobs Banner][(https://via.placeholder.com/1200x400/4CAF50/FFFFFF?text=EthJobs+Portal+Banner)](https://github.com/Nathnael-Wondwosen/EthJobs-Portal/blob/main/public/frontend/assets/imgs/AI.png).
 
 ## ✨ Key Features
 
